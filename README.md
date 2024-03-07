@@ -1,0 +1,1 @@
+# multiple_window_rect_multiprocessing_pyqt5
